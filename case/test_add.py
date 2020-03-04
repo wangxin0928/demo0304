@@ -48,3 +48,4 @@ class TestAdd(object):
         self.add_page.input_name('李白')
 
         # 发一个黄金解决
+# 好好干好几个
