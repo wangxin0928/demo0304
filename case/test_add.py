@@ -44,8 +44,4 @@ class TestAdd(object):
         # self.add_page.input_phone('123456')
         # # 发送返回键
         # self.driver.keyevent(4)
-    def test_func02(self):
-        self.add_page.input_name('李白')
-
-        # 发一个黄金解决
-# 好好干好几个
+# kjlkjlkj
