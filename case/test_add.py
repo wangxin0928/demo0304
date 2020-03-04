@@ -33,6 +33,7 @@ class TestAdd(object):
         # 发送返回键
         self.driver.keyevent(4)
 
+
         # # 点击添加按钮
         # self.setting_page.click_my_btn()
         # # 点击本地保存按钮
@@ -43,3 +44,5 @@ class TestAdd(object):
         # self.add_page.input_phone('123456')
         # # 发送返回键
         # self.driver.keyevent(4)
+    def test_func02(self):
+        self.add_page.input_name('李白')
